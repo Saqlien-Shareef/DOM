@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#main {
+    color: aqua;
+    padding: 50px;
+}
+.dom {
+    color: blue;
+    padding: 50px;
+}
+h1 {
+    padding: 50px;
+}
